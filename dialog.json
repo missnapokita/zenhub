@@ -1,0 +1,24 @@
+{
+  "update": {
+    "enable": true,
+    "version": "1.0.1",
+    "title": "New Update Available",
+    "message": "A new version of ZenHub Ultra is now available.",
+
+    "force_update": false,
+
+    "update_button": "UPDATE",
+    "update_link": "https://example.com/zenhub-update",
+
+    "cancel_button": "LATER"
+  },
+
+  "claim_dias": {
+    "enable": true,
+    "title": "Dear User,",
+    "message": "Thank you for using ZenHub Ultra. Please enjoy this small gift from our team.",
+    "amount": "50",
+    "button": "CLAIM",
+    "link": "https://example.com/claim"
+  }
+}
