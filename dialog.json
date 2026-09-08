@@ -4,12 +4,9 @@
     "version": "1.0",
     "title": "New Update Available",
     "message": "A new version of ZenHub is now available.",
-
     "force_update": false,
-
     "update_button": "UPDATE",
     "update_link": "https://example.com/zenhub-update",
-
     "cancel_button": "LATER"
   },
 
@@ -20,5 +17,16 @@
     "amount": "500",
     "button": "CLAIM",
     "link": "https://example.com/claim"
+  },
+
+  "subscribe_unlock": {
+    "enable": true,
+    "revision": "1",
+    "title": "Subscribe to Unlock",
+    "message": "Like & Subscribe to continue.",
+    "button": "LIKE & SUBSCRIBE",
+    "link": "https://youtu.be/2HDizGrAdvM?si=PP6xTarYIDp1GR4J",
+    "countdown_seconds": 10,
+    "open_button": "OPEN"
   }
 }
