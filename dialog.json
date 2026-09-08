@@ -1,9 +1,9 @@
 {
   "update": {
     "enable": true,
-    "version": "1.0.1",
+    "version": "1.0",
     "title": "New Update Available",
-    "message": "A new version of ZenHub Ultra is now available.",
+    "message": "A new version of ZenHub is now available.",
 
     "force_update": false,
 
