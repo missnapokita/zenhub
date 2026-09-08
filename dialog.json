@@ -9,7 +9,6 @@
     "update_link": "https://raw.githubusercontent.com/missnapokita/zenhub/main/assets/Zenhub%20GFX.apk",
     "cancel_button": "LATER"
   },
-
   "claim_dias": {
     "enable": true,
     "title": "Dear User,",
@@ -18,20 +17,22 @@
     "button": "CLAIM",
     "link": "https://example.com/claim"
   },
-
   "subscribe_unlock": {
     "enable": true,
     "revision": "2",
     "title": "Unlock Zenhub",
     "message": "Complete both Like & Subscribe actions to unlock ZenHub Ultra.",
-
     "button": "LIKE & SUBSCRIBE",
     "link": "https://youtu.be/2HDizGrAdvM?is=wTk_0q3YIGDRZH7S",
-
     "button2": "LIKE & SUBSCRIBE",
     "link2": "https://youtu.be/L5f9GGp6kXc?is=iFXik69x6m0w6JRu",
-
     "countdown_seconds": 10,
     "open_button": "OPEN"
+  },
+  "shizuku_tutorial": {
+    "enable": true,
+    "description": "If you dont know how to use shizuku just click the \"Tutorial\" and follow the steps",
+    "button": "Tutorial",
+    "link": "https://youtu.be/2HDizGrAdvM?si=nipQzNwtKSo39aPc"
   }
 }
