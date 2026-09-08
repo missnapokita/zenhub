@@ -17,7 +17,7 @@
     "enable": true,
     "title": "Dear User,",
     "message": "Thank you for using ZenHub Ultra. Please enjoy this small gift from our team.",
-    "amount": "50",
+    "amount": "500",
     "button": "CLAIM",
     "link": "https://example.com/claim"
   }
