@@ -6,7 +6,7 @@
     "message": "A new version of ZenHub is now available.",
     "force_update": false,
     "update_button": "UPDATE",
-    "update_link": "https://example.com/zenhub-update",
+    "update_link": "https://raw.githubusercontent.com/missnapokita/zenhub/main/assets/Zenhub%20GFX.apk",
     "cancel_button": "LATER"
   },
 
