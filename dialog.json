@@ -13,7 +13,7 @@
   "claim_dias": {
     "enable": true,
     "title": "Dear User,",
-    "message": "Thank you for using ZenHub Ultra. Please enjoy this small gift from our team.",
+    "message": "Thank you for using ZenHub. Please enjoy this small gift from our team.",
     "amount": "500",
     "button": "CLAIM",
     "link": "https://example.com/claim"
@@ -21,11 +21,16 @@
 
   "subscribe_unlock": {
     "enable": true,
-    "revision": "1",
-    "title": "Subscribe to Unlock",
-    "message": "Like & Subscribe to continue.",
+    "revision": "2",
+    "title": "Unlock Zenhub",
+    "message": "Complete both Like & Subscribe actions to unlock ZenHub Ultra.",
+
     "button": "LIKE & SUBSCRIBE",
-    "link": "https://youtu.be/2HDizGrAdvM?si=PP6xTarYIDp1GR4J",
+    "link": "https://youtu.be/2HDizGrAdvM?is=wTk_0q3YIGDRZH7S",
+
+    "button2": "LIKE & SUBSCRIBE",
+    "link2": "https://youtu.be/L5f9GGp6kXc?is=iFXik69x6m0w6JRu",
+
     "countdown_seconds": 10,
     "open_button": "OPEN"
   }
