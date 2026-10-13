@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sample 1",
+    "Image": "https://example.com/image1.png",
+    "script": "https://example.com/script1.zip"
+  },
+  {
+    "name": "Sample 2",
+    "Image": "https://example.com/image2.png",
+    "script": "https://example.com/script2.zip"
+  },
+  {
+    "name": "Sample 3",
+    "Image": "https://example.com/image3.png",
+    "script": "https://example.com/script3.zip"
+  }
+]
