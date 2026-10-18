@@ -1,0 +1,38 @@
+{
+  "update": {
+    "enable": true,
+    "version": "2.0",
+    "title": "New Update Available",
+    "message": "A new version of ZenHub is now available.",
+    "force_update": false,
+    "update_button": "UPDATE",
+    "update_link": "https://play.google.com/store/apps/details?id=com.bisayatoolkit.ph",
+    "cancel_button": "LATER"
+  },
+  "claim_dias": {
+    "enable": true,
+    "title": "Dear User,",
+    "message": "Thank you for using ZenHub. Please enjoy this small gift from our team.",
+    "amount": "500",
+    "button": "CLAIM",
+    "link": "https://lnk.ink/ifr0C"
+  },
+  "subscribe_unlock": {
+    "enable": true,
+    "revision": "2",
+    "title": "Unlock Zenhub",
+    "message": "Complete both Like & Subscribe actions to unlock ZenHub Ultra.",
+    "button": "LIKE & SUBSCRIBE",
+    "link": "https://youtu.be/gs8F-u00cqY?si=VxO2T5MK5fk38YLv",
+    "button2": "LIKE & SUBSCRIBE",
+    "link2": "https://youtu.be/L5f9GGp6kXc?is=iFXik69x6m0w6JRu",
+    "countdown_seconds": 10,
+    "open_button": "OPEN"
+  },
+  "shizuku_tutorial": {
+    "enable": true,
+    "description": "If you dont know how to use shizuku just click the \"Tutorial\" and follow the steps",
+    "button": "Tutorial",
+    "link": "https://youtube.com/@pusicat04?si=PIsD346eEjuCJAKw"
+  }
+}
