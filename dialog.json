@@ -1,12 +1,12 @@
 {
   "update": {
     "enable": true,
-    "version": "1.0",
+    "version": "2.0",
     "title": "New Update Available",
-    "message": "A new version of ZenHub is now available.",
+    "message": "A new version of BeastHub is now available.",
     "force_update": false,
     "update_button": "UPDATE",
-    "update_link": "https://play.google.com/store/apps/details?id=com.bisayatoolkit.ph",
+    "update_link": "https://play.google.com/store/apps/details?id=com.beasthub.ultra",
     "cancel_button": "LATER"
   },
   "claim_dias": {
