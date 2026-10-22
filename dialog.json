@@ -1,9 +1,9 @@
 {
   "update": {
     "enable": true,
-    "version": "2.0",
+    "version": "2.1",
     "title": "New Update Available",
-    "message": "A new version of BeastHub is now available.",
+    "message": "Fix Pairing Device Failed.",
     "force_update": false,
     "update_button": "UPDATE",
     "update_link": "https://play.google.com/store/apps/details?id=com.beasthub.ultra",
