@@ -1,7 +1,7 @@
 {
   "update": {
     "enable": true,
-    "version": "5",
+    "version": "2.2",
     "title": "New Update Available",
     "message": "Added Radiant Kits Effect",
     "force_update": true,
